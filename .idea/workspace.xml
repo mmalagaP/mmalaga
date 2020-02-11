@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XRYguErHY7BDAdNYA0SuK6AWCo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,18 +29,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="TestNG.PetclinicTests (4)">
-    <configuration name="PetclinicTests (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/Admin/IdeaProjects/selenium-docker/testng.xml">
+    <configuration name="C:/Users/Admin/IdeaProjects/selenium-docker/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-docker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.petclinic.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.petclinic.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.petclinic.tests.PetclinicTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PetclinicTests (4)" />
+        <item itemvalue="TestNG.C:/Users/Admin/IdeaProjects/selenium-docker/testng.xml" />
         <item itemvalue="TestNG.PetclinicTests" />
+        <item itemvalue="TestNG.PetclinicTests (4)" />
         <item itemvalue="TestNG.PetclinicTests (3)" />
         <item itemvalue="TestNG.PetclinicTests.registroPruebaTest2" />
-        <item itemvalue="TestNG.PetclinicTests (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +132,7 @@
       <workItem from="1581010504471" duration="12399000" />
       <workItem from="1581036945463" duration="3311000" />
       <workItem from="1581085316421" duration="8800000" />
-      <workItem from="1581364252867" duration="10604000" />
+      <workItem from="1581364252867" duration="13500000" />
     </task>
     <servers />
   </component>
@@ -143,49 +140,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1317" height="215" key="GridCell.Tab.0.bottom" timestamp="1581377126178">
+    <state width="1317" height="321" key="GridCell.Tab.0.bottom" timestamp="1581382475312">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.bottom/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581377126178" />
+    <state width="1317" height="321" key="GridCell.Tab.0.bottom/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581382475312" />
     <state width="1323" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-69.1920.1040@0.0.1366.728" timestamp="1581117547374" />
     <state width="1323" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581124896803" />
-    <state width="1317" height="215" key="GridCell.Tab.0.center" timestamp="1581377126178">
+    <state width="1317" height="321" key="GridCell.Tab.0.center" timestamp="1581382475312">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.center/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581377126178" />
+    <state width="1317" height="321" key="GridCell.Tab.0.center/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581382475312" />
     <state width="1323" height="188" key="GridCell.Tab.0.center/0.0.1366.728/1366.-69.1920.1040@0.0.1366.728" timestamp="1581117547374" />
     <state width="1323" height="188" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581124896803" />
-    <state width="1317" height="215" key="GridCell.Tab.0.left" timestamp="1581377126178">
+    <state width="1317" height="321" key="GridCell.Tab.0.left" timestamp="1581382475312">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.left/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581377126178" />
+    <state width="1317" height="321" key="GridCell.Tab.0.left/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581382475312" />
     <state width="1323" height="188" key="GridCell.Tab.0.left/0.0.1366.728/1366.-69.1920.1040@0.0.1366.728" timestamp="1581117547374" />
     <state width="1323" height="188" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581124896802" />
-    <state width="1317" height="215" key="GridCell.Tab.0.right" timestamp="1581377126178">
+    <state width="1317" height="321" key="GridCell.Tab.0.right" timestamp="1581382475312">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.right/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581377126178" />
+    <state width="1317" height="321" key="GridCell.Tab.0.right/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581382475312" />
     <state width="1323" height="188" key="GridCell.Tab.0.right/0.0.1366.728/1366.-69.1920.1040@0.0.1366.728" timestamp="1581117547374" />
     <state width="1323" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581124896803" />
-    <state width="1317" height="255" key="GridCell.Tab.1.bottom" timestamp="1581373679878">
+    <state width="1317" height="255" key="GridCell.Tab.1.bottom" timestamp="1581382198906">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="255" key="GridCell.Tab.1.bottom/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581373679878" />
+    <state width="1317" height="255" key="GridCell.Tab.1.bottom/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581382198906" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-69.1920.1040@0.0.1366.728" timestamp="1581034912653" />
-    <state width="1317" height="255" key="GridCell.Tab.1.center" timestamp="1581373679877">
+    <state width="1317" height="255" key="GridCell.Tab.1.center" timestamp="1581382198906">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="255" key="GridCell.Tab.1.center/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581373679877" />
+    <state width="1317" height="255" key="GridCell.Tab.1.center/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581382198906" />
     <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.-69.1920.1040@0.0.1366.728" timestamp="1581034912653" />
-    <state width="1317" height="255" key="GridCell.Tab.1.left" timestamp="1581373679877">
+    <state width="1317" height="255" key="GridCell.Tab.1.left" timestamp="1581382198905">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="255" key="GridCell.Tab.1.left/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581373679877" />
+    <state width="1317" height="255" key="GridCell.Tab.1.left/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581382198905" />
     <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.-69.1920.1040@0.0.1366.728" timestamp="1581034912653" />
-    <state width="1317" height="255" key="GridCell.Tab.1.right" timestamp="1581373679878">
+    <state width="1317" height="255" key="GridCell.Tab.1.right" timestamp="1581382198906">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="255" key="GridCell.Tab.1.right/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581373679878" />
+    <state width="1317" height="255" key="GridCell.Tab.1.right/0.0.1360.728/1360.-139.1920.1040@0.0.1360.728" timestamp="1581382198906" />
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.-69.1920.1040@0.0.1366.728" timestamp="1581034912653" />
     <state x="382" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581364260130">
       <screen x="0" y="0" width="1360" height="728" />

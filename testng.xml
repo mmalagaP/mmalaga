@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="test-module">
+    <test name="prueba1">
+        <classes>
+            <class name="com.petclinic.tests.PetclinicTests" />
+        </classes>
+    </test>
+</suite>
