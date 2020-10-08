@@ -18,7 +18,7 @@ public class PetclinicTests {
     private WebDriver driver;
     @BeforeTest
     public void setupDriver(ITestContext ctx) throws MalformedURLException {
-        String host = "192.168.1.50";
+        String host = "192.168.1.55";
         DesiredCapabilities dc = DesiredCapabilities.chrome();
 
         if (System.getProperty("BROWSER") != null && System.getProperty("BROWSER").equalsIgnoreCase("firefox")){
