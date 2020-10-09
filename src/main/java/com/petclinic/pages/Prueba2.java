@@ -38,7 +38,7 @@ public class Prueba2 {
         PageFactory.initElements(driver, this);
     }
     public void goTo(){
-        this.driver.get("http://192.168.1.52:8083/petclinic/owners/new");
+        this.driver.get("http://172.30.176.84:8083/petclinic/owners/new");
         this.wait.until(ExpectedConditions.visibilityOf(this.lastNameTxt));
     }
     public void enterUserDetails(String firstName, String lastName, String address, String city, String telephone){
